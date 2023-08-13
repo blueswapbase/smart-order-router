@@ -1,5 +1,5 @@
-import { CHAIN_TO_ADDRESSES_MAP, ChainId, Token } from '@uniswap/sdk-core';
-import { FACTORY_ADDRESS } from '@uniswap/v3-sdk';
+import { CHAIN_TO_ADDRESSES_MAP, ChainId, Token } from 'blueswap-sdk-core';
+import { FACTORY_ADDRESS } from 'blueswap-v3-sdk';
 
 import { NETWORKS_WITH_SAME_UNISWAP_ADDRESSES } from './chains';
 

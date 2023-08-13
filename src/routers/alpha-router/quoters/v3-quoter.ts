@@ -1,4 +1,4 @@
-import { ChainId, Currency, Token, TradeType } from '@uniswap/sdk-core';
+import { ChainId, Currency, Token, TradeType } from 'blueswap-sdk-core';
 import _ from 'lodash';
 
 import {

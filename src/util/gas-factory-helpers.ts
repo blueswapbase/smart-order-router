@@ -6,9 +6,9 @@ import {
   CurrencyAmount,
   Token,
   TradeType,
-} from '@uniswap/sdk-core';
+} from 'blueswap-sdk-core';
 import { Pair } from '@uniswap/v2-sdk/dist/entities';
-import { FeeAmount, Pool } from '@uniswap/v3-sdk';
+import { FeeAmount, Pool } from 'blueswap-v3-sdk';
 import _ from 'lodash';
 
 import { IV2PoolProvider } from '../providers';

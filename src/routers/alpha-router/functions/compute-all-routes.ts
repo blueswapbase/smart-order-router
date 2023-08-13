@@ -1,6 +1,6 @@
-import { Token } from '@uniswap/sdk-core';
+import { Token } from 'blueswap-sdk-core';
 import { Pair } from '@uniswap/v2-sdk';
-import { Pool } from '@uniswap/v3-sdk';
+import { Pool } from 'blueswap-v3-sdk';
 
 import { log } from '../../../util/log';
 import { poolToString, routeToString } from '../../../util/routes';
