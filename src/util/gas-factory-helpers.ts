@@ -6,7 +6,7 @@ import {
   CurrencyAmount,
   Token,
   TradeType,
-} from '@uniswap/sdk-core';
+} from 'blueswap-sdk-core';
 import { Pair } from '@uniswap/v2-sdk/dist/entities';
 import { FeeAmount, Pool } from '@uniswap/v3-sdk';
 import JSBI from 'jsbi';

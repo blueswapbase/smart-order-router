@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber';
-import { ChainId, Token } from '@uniswap/sdk-core';
+import { ChainId, Token } from 'blueswap-sdk-core';
 
 import { log, metric, MetricLoggerUnit } from '../util';
 
